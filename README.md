@@ -1,6 +1,6 @@
 ### Hi, I'm Carlos Zhenglin Wan 👋
 
-Ph.D Student in Computer Science at **National University of Singapore (NUS)** focused on **RL post-train of Generative Foundation Models**.
+Ph.D Student in Computer Science at **National University of Singapore (NUS)** focused on **RL post-train of Multi-Modal Generation**.
 
 Academic Homepage: [vanzll.github.io](https://vanzll.github.io)
 
@@ -9,7 +9,7 @@ Academic Homepage: [vanzll.github.io](https://vanzll.github.io)
 
 ---
 ### Experiences
-- Intern (Remote) @ Hong Kong Generative AI Research & Development Center (HKGAI), HKUST
-- Research Assistant @ CCDS, NTU
-- Research Intern @ Centre for Frontier AI Research, A*STAR
+- Intern @ Hong Kong Generative AI Research & Development Center (HKGAI), HKUST
+- Researcher @ CCDS, NTU
+- Research Intern @ Centre for Frontier AI Research, IHPC, A*STAR
 

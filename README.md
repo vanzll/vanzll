@@ -2,14 +2,12 @@
 
 Ph.D Student in Computer Science at **National University of Singapore (NUS)** focused on **RL post-train of Multi-Modal Generation**.
 
+Prev: National Chess Athlete/ CMOer
+
+
+
 Academic Homepage: [vanzll.github.io](https://vanzll.github.io)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-
----
-### Experiences
-- Intern @ Hong Kong Generative AI Research & Development Center (HKGAI), HKUST
-- Researcher @ CCDS, NTU
-- Research Intern @ Centre for Frontier AI Research, IHPC, A*STAR
 
